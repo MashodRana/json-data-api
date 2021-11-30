@@ -1,0 +1,87 @@
+[
+    {
+        "category": "web",
+        "title": "MR Watch House",
+        "images": [
+            "https://i.ibb.co/MDzFY95/watch-house.png",
+            "https://i.ibb.co/gVBTzjb/watch-house-2-min.png"
+        ],
+        "description": "A responsive ecommerce site for selling watches with user authentication and dashboard for both customer and seller.",
+        "features": [
+            "Customers can order products , cancel orders and add reviews.",
+            "Admin/Seller can manage order and product. Also can add admin."
+        ],
+        "tags": [
+            "React",
+            "Tailwind CSS",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "Firebase"
+        ],
+        "livesite": "https://mr-watch-house.web.app/",
+        "backend": "https://github.com/MashodRana/mr-watch-house-server-side",
+        "frontend": "https://github.com/MashodRana/true-tour-mentor-client-side"
+    },
+    {
+        "category": "web",
+        "title": "True Tour Mentor",
+        "images": [
+            "https://i.ibb.co/Y2xkjc6/tour-mentor-home-min.png",
+            "https://i.ibb.co/q5Gq048/tour-mentor-2-min.png",
+            "https://i.ibb.co/ns5WMpL/tour-mentor-1-min.png"
+        ],
+        "description": "A responsive travel agency site where user can make travel palns, book plans etc.",
+        "features": [
+            "A responsive travel agency website with user authentication.",
+            "Users can make travel plans, choose plans, confirm plans, cancel plans etc"
+        ],
+        "tags": [
+            "React",
+            "Tailwind CSS",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "Firebase"
+        ],
+        "livesite": "https://true-tour-mentor-6bffb.web.app",
+        "backend": "https://github.com/MashodRana/true-tour-mentor-server-side",
+        "frontend": "https://github.com/MashodRana/true-tour-mentor-client-side"
+    },
+    {
+        "category": "web + ML",
+        "title": "Color Detection Service",
+        "images": [
+            "https://i.ibb.co/rk3WH0V/color-detection-min.png"
+        ],
+        "description": "A color identifier create with machine learning and provide service with Django.",
+        "features": [
+            "Extract presents color in a images.",
+            "Indentify colors name."
+        ],
+        "tags": [
+            "Machine Learning",
+            "K-Means",
+            "Django"
+        ],
+        "backend": "https://github.com/MashodRana/color-detection-service-django"
+    },
+    {
+        "category": "Scrapping",
+        "title": "Content Scrapper",
+        "images": [
+            "https://i.ibb.co/pP73GTx/content-scrapper-min.png"
+        ],
+        "description": "A web scraper for scrape data from various web site.",
+        "features": [
+            "Scrape titles/headlines with their URL of a webpage.",
+            "Scrape article and information about that article from provided webpage URL.",
+            "Scrape google search result corresponding to a query."
+        ],
+        "tags": [
+            "Python",
+            "Beautiful Soap"
+        ],
+        "backend": "https://github.com/MashodRana/content_scrapper"
+    }
+]
